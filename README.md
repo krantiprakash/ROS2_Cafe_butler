@@ -25,7 +25,7 @@ I have provided map1.yaml file and map1.pgm file in config folder , you have to 
  
  - ros2 run delivery_bot task1.py   ---> for task1 
  - ros2 run delivery_bot task2.py   ---> for task2
- - ros2 run delivery_bot task3.py   ---> for task3 ....
+ - ros2 run delivery_bot task3.py   ---> for task3 ....and so on till 7th task
 
 - For giving the confirmation, Run the following command:-  ros2 service call confirmation std_srvs/srv/Empty
 
