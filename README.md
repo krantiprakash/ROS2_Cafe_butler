@@ -1,6 +1,6 @@
 # Robot Butler Simulation for Cafe Delivery  
 
-This repository contains the necessary files and instructions to simulate a robot butler in a café environment using ROS2. The robot navigates using the `turtlebot3_navigation2` package and executes delivery tasks based on the provided scenarios.
+This repository contains the necessary files and instructions to simulate a robot butler in a cafe environment using ROS2. The robot navigates using the `turtlebot3_navigation2` package and executes delivery tasks based on the provided scenarios.
 
 ---
 
