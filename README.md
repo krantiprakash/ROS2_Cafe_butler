@@ -29,4 +29,9 @@ I have provided map1.yaml file and map1.pgm file in config folder , you have to 
 
 - For giving the confirmation, Run the following command:-  ros2 service call confirmation std_srvs/srv/Empty
 
-- For giving the cancellation, Run the following cammand :- ros2 service call cancellation std_stvs/srv/Empty
+- For giving the cancellation, Run the following command:- ros2 service call cancellation std_stvs/srv/Empty
+
+### Important Note:
+
+- For better results, increasing the Maximum range of lidar from the turtlebot3_gazebo package is advisable.
+  
