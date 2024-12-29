@@ -200,8 +200,8 @@ class SequentialNav(Node):
         initial_pose.pose.pose.position.z = 0.0
         initial_pose.pose.pose.orientation.x = 0.0
         initial_pose.pose.pose.orientation.y = 0.0
-        initial_pose.pose.pose.orientation.z = 0.7071068
-        initial_pose.pose.pose.orientation.w = 0.7071068
+        initial_pose.pose.pose.orientation.z = 0.0
+        initial_pose.pose.pose.orientation.w = 1.0
         
         initial_pose.pose.covariance = [
             0.25, 0.0, 0.0, 0.0, 0.0, 0.0, 
