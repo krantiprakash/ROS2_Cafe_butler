@@ -41,6 +41,8 @@ I have provided map1.yaml file and map1.pgm file in config folder , you have to 
 
 [![Task2](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/csxCIzHAGMA?si=chZpEBGF_Dxm6-1a)
 
+[![Task3](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/_I-FeR1ULCE?si=uSxTUY76h-ljf4LD)
+
 [![Task4](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/nz8fDAGP9uA)
 
 [![Task6](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/8pmem0Z-eYY)
