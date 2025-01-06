@@ -36,13 +36,18 @@ I have provided map1.yaml file and map1.pgm file in config folder , you have to 
 - For better results, increasing the Maximum range of lidar from the turtlebot3_gazebo package is advisable.
 
 ### Results 
+
+[![Task1](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/DHQkgJsfRQs?si=lCEfzitkars2R9lq)
+
+[![Task2](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/csxCIzHAGMA?si=chZpEBGF_Dxm6-1a)
+
 [![Task4](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/nz8fDAGP9uA)
 
 [![Task6](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/8pmem0Z-eYY)
 
 [![Task7](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/-z5vXbp-WlY)
 
-[![Task1](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/DHQkgJsfRQs?si=lCEfzitkars2R9lq)
+
 
 
 
